@@ -1,0 +1,19 @@
+TODO list
+
+GROUP
+
+1. PayCoin ERC20
+2. Exchange (token B/S, token exchange)
+3. Monitoring System (multiple token) 
+4. Challenge Handling (requires timing component)
+5. Pricing system
+6. Token timed release (see challenge handling)
+
+INDIVIDUAL
+
+1. ERC20 Token (token, pool)
+2. Monitoring System (single token)
+3. Admin Interface
+4. Bots
+5. Fees
+6. Challenge Creation

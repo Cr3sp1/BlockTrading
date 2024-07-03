@@ -1,0 +1,3 @@
+brownie networks add DevEthereum ganache-local host=http://taurus97.ddns.net:8545 chainid=1337
+
+ganache-cli --port 8545 --accounts 10 --hardfork istanbul --mnemonic brownie --gasPrice 0 --gasLimit 12000000 -- 10 -b 10 -h 0.0.0.0 --db="/home/pi/MCF/Save" &
