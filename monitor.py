@@ -117,8 +117,8 @@ def main():
 				paycoinowners[2], tokenowners[6], tokenowners[7], tokenowners[8]]
 			
 			for i in range(len(riga)):
-				 f.write(str(riga[i]) + ' ')    
-		f.write('\n')
+				f.write(str(riga[i]) + ' ')    
+				f.write('\n')
 			print('monitoring ok')
 		
 		except:
